@@ -16,6 +16,9 @@ public class Main {
                         20.0,
                         "Blanca con flores rosas");
 
+                Sully.espantar();
+                Boo.llorar();
+
     }
 
 }

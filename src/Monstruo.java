@@ -16,7 +16,7 @@ public class Monstruo extends Personaje{
     //trabajar
     //hacerReir
     public void espantar(){
-        System.out.println("Boo");
+        System.out.println("Te asusto, te asusto");
     }
 
     public void trabajar(){
