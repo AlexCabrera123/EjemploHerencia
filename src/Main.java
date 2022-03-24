@@ -10,6 +10,12 @@ public class Main {
                 false,
                 "Azul",
                 new ArrayList<>(Arrays.asList("Fuerte","Carismatico","Amable")));
+
+                Kid Boo = new Kid("Boo",
+                        .50,
+                        20.0,
+                        "Blanca con flores rosas");
+
     }
 
 }

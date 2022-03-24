@@ -13,6 +13,7 @@ public class Kid extends Personaje{
     public Kid(String nombre, double estatura, double peso, String colorPuerta) {
         super(nombre, estatura, peso);
         this.colorPuerta = colorPuerta;
+        System.out.println("Estoy en constructor Kid");
     }
 
     //reir

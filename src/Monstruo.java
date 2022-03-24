@@ -65,5 +65,6 @@ public class Monstruo extends Personaje{
         this.tieneTentaculos = tieneTentaculos;
         this.color = color;
         this.habilidades = habilidades;
+        System.out.println("Estoy en el constructor Monster");
     }
 }
